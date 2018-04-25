@@ -1,5 +1,5 @@
 # GithubArchitectureComponents
-This application is my implementation of the Architecture Components use-case : https://developer.android.com/topic/libraries/architecture/guide.html 
+This application is my implementation of the Architecture Components use-case : https://developer.android.com/topic/libraries/architecture/guide.html
 
 You can find the related article on my Medium : https://medium.com/@Phil_Boisney/the-missing-google-sample-of-android-architecture-components-guide-c7d6e7306b8f
 
