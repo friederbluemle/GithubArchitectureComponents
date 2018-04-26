@@ -43,7 +43,7 @@ public class UserRepository {
     // ---
 
     public LiveData<User> getUser(String userLogin) {
-        refreshUser(userLogin); // try to refresh data if possible from Github Api
+        refreshUser(userLogin); // try to refresh data if possible from GitHub API
         return userDao.load(userLogin); // return a LiveData directly from the database.
     }
 
